@@ -39,9 +39,7 @@ The following **additional** features are implemented:
 
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-The gif links aren't showing if I put them inside the paranthesis, so here they are: 
-First link: https://i.imgur.com/JmVm3Kd.gif
-Second link: https://i.imgur.com/BY4NQiN.gif
+
 ![](https://i.imgur.com/JmVm3Kd.gif)
 ![](https://i.imgur.com/BY4NQiN.gif)
 
