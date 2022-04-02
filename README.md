@@ -3,7 +3,7 @@
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: Animesh Deb
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/codepath-assignment)
 
@@ -60,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/9f83bd7bb3c340ff8cde1f49a86caff6)
 
 
 ## License
